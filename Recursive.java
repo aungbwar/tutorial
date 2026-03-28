@@ -1,7 +1,7 @@
 public class Recursive {
     public static void main(String[] args) throws Exception {
         System.out.println(factorial(5));
-        System.out.println("Version 2");
+        System.out.println("Version 3");
     }
 
     public static int factorial(int x ) {
