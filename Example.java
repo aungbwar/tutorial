@@ -5,8 +5,7 @@ public class Example {
     int y = 100;
 
     System.out.println(addMethod(x, y));
-    System.out.println("Version 1");
-    System.out.println("Version 5");
+    System.out.println("Version 7");
 
   }
 
