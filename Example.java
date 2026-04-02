@@ -6,6 +6,7 @@ public class Example {
 
     System.out.println(addMethod(x, y));
     System.out.println("Version 8");
+    System.out.println("Added feature 1");
 
   }
 
