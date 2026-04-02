@@ -3,6 +3,7 @@ public class Recursive {
         System.out.println(factorial(5));
         System.out.println("Version 8");
         System.out.println("Bug fix");
+        System.out.println("Added feature 3");
     }
 
     public static int factorial(int x ) {
